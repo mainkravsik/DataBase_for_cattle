@@ -1,0 +1,10 @@
+D:\Ilya\PROJECT ON 1KKK\DataBase_for_cattle\DataBase_for_cattle\bin\Debug\DataBase_for_cattle.exe.config
+D:\Ilya\PROJECT ON 1KKK\DataBase_for_cattle\DataBase_for_cattle\bin\Debug\DataBase_for_cattle.exe
+D:\Ilya\PROJECT ON 1KKK\DataBase_for_cattle\DataBase_for_cattle\bin\Debug\DataBase_for_cattle.pdb
+D:\Ilya\PROJECT ON 1KKK\DataBase_for_cattle\DataBase_for_cattle\obj\Debug\DataBase_for_cattle.csprojAssemblyReference.cache
+D:\Ilya\PROJECT ON 1KKK\DataBase_for_cattle\DataBase_for_cattle\obj\Debug\DataBase_for_cattle.Form1.resources
+D:\Ilya\PROJECT ON 1KKK\DataBase_for_cattle\DataBase_for_cattle\obj\Debug\DataBase_for_cattle.Properties.Resources.resources
+D:\Ilya\PROJECT ON 1KKK\DataBase_for_cattle\DataBase_for_cattle\obj\Debug\DataBase_for_cattle.csproj.GenerateResource.cache
+D:\Ilya\PROJECT ON 1KKK\DataBase_for_cattle\DataBase_for_cattle\obj\Debug\DataBase_for_cattle.csproj.CoreCompileInputs.cache
+D:\Ilya\PROJECT ON 1KKK\DataBase_for_cattle\DataBase_for_cattle\obj\Debug\DataBase_for_cattle.exe
+D:\Ilya\PROJECT ON 1KKK\DataBase_for_cattle\DataBase_for_cattle\obj\Debug\DataBase_for_cattle.pdb
